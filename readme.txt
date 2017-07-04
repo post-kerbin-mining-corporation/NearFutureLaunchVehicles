@@ -1,5 +1,5 @@
 ==================================
-NEAR FUTURE LAUNCH VEHICLES v0.1.0
+NEAR FUTURE LAUNCH VEHICLES v1.0.0
 ==================================
 
 
@@ -9,11 +9,10 @@ DEPENDENCIES
 ============
 
 Required:
-- B9PartSwitch (1.7.1)
-- ModuleManager (v2.7.5)
+- B9PartSwitch (1.9.0)
+- ModuleManager (v2.8.1)
 
-Optional
-- Community Resource Pack (0.6.6)
+Optional:
 - Community Tech Tree (v3.0+)
 
 ============
