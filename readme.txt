@@ -2,7 +2,8 @@
 NEAR FUTURE LAUNCH VEHICLES v1.0.0
 ==================================
 
-
+This mod is intended to provide a well-balanced, artistically consistent set of large launch vehicle parts for your launching pleasure. It contains both 5m and 7.5m size class parts as well as support components like RCS thrusters and clusterable engines.
+It works well with the entire suite of Near Future Technologies mods, as well as my other packs such as Cryogenic Engines and Kerbal Atomics.
 
 ============
 DEPENDENCIES
@@ -24,12 +25,6 @@ I recommend removing any previous versions of Near Future Launch Vehicles before
 To install, place the GameData folder inside your Kerbal Space Program folder. If asked to overwrite files, do so.
 
 I recommend the use of the Community Tech Tree (http://forum.kerbalspaceprogram.com/threads/100385-Community-Tech-Tree-1-0), which will place engines in various high tech nodes.
-
-======================
-INSTALLATION OF EXTRAS
-======================
-
-
 
 ============
 KSP-MINI-AVC
