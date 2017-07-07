@@ -27,6 +27,13 @@ To install, place the GameData folder inside your Kerbal Space Program folder. I
 I recommend the use of the Community Tech Tree (http://forum.kerbalspaceprogram.com/threads/100385-Community-Tech-Tree-1-0), which will place engines in various high tech nodes.
 
 ============
+LOCALIZATION
+============
+
+This mod includes localization support, and includes translations for
+- Spanish (KSP forum user fitiales)
+
+============
 KSP-MINI-AVC
 ============
 

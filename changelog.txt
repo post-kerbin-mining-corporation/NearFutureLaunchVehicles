@@ -1,7 +1,9 @@
-1.0.0
+1.0.1
 -----
+- Added Spanish translation courtesy of fitiales
 - Fixed localization issue on EX-M25 cluster mount
 - Fixed localization issue on NR-12800 Fuel Tank
+- Changed base symmetry of Energia cluster mount to 2x instead of 6x
 
 1.0.0
 -----
