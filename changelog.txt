@@ -1,3 +1,8 @@
 1.0.0
 -----
+- Fixed localization issue on EX-M25 cluster mount
+- Fixed localization issue on NR-12800 Fuel Tank
+
+1.0.0
+-----
 - Initial release
