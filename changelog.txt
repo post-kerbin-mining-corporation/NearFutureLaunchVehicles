@@ -1,3 +1,19 @@
+1.0.1
+-----
+- Added Spanish translation courtesy of fitiales
+- Fixed localization issue on EX-M25 cluster mount
+- Fixed localization issue on NR-12800 Fuel Tank
+- Fixed surface attach nodes on several 5m fuel tanks
+- Fixed cost of 5m nosecone being too high
+- Fixed upper endcap and attach node of EA-S20 adapter being positioned slightly too high
+- Fixed texture warping issue on EA-S20 adapter
+- Fixed mass not being decreased correctly in Energia cluster mount's single configuration
+- Changed base symmetry of Energia cluster mount to 2x instead of 6x
+- Normalized upper stage engine gimbal ranges to 2 degrees, lower stages to 4 degrees
+- Fixed incorrectly specified gimbal on the RE-4
+- Fixed NRE on load on the RE-4
+- Fixed a model centering issue on the RE-4
+
 1.0.0
 -----
 - Initial release
