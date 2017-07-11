@@ -1,3 +1,9 @@
+1.0.2
+-----
+- Fixed cost of 5m docking port
+- Fixed cost of all cluster adapters
+- Moved flat 5m -> 3.75m adapter to Structural category
+
 1.0.1
 -----
 - Added Spanish translation courtesy of fitiales
