@@ -1,3 +1,14 @@
+1.0.2
+-----
+- Fixed cost of 5m docking port
+- Fixed cost of all cluster adapters
+- Moved flat 5m -> 3.75m adapter to Structural category
+- Fixed RE-4 strange floating engine effect
+- Fixed RE-4 engine FX offset being very large
+- Fixed S6-V engine smoke FX direction
+- Fixed S1-V engine lack of smoke in atmosphere
+- Fixed a couple of exceptions on engine startup
+
 1.0.1
 -----
 - Added Spanish translation courtesy of fitiales
