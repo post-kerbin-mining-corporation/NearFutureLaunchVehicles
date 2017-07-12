@@ -4,9 +4,10 @@
 - Fixed cost of all cluster adapters
 - Moved flat 5m -> 3.75m adapter to Structural category
 - Fixed RE-4 strange floating engine effect
-- Fixed RE-4 engine fx offset
-- Fixed S06 engine smoke FX direction
-- Fixed S01 engine lack of smoke
+- Fixed RE-4 engine FX offset being very large
+- Fixed S6-V engine smoke FX direction
+- Fixed S1-V engine lack of smoke in atmosphere
+- Fixed a couple of exceptions on engine startup
 
 1.0.1
 -----
