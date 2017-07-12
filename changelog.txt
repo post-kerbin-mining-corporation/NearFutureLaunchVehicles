@@ -1,3 +1,7 @@
+1.0.3
+-----
+- Fixed a typo in the AVC file
+
 1.0.2
 -----
 - Fixed cost of 5m docking port
