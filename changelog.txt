@@ -3,6 +3,7 @@
 - Fixed a typo in the AVC file
 - Fixed CTT location of 7.5m drone core
 - Fixed label of fuel switch on smallest 5m fuel tank (fixes CryoTanks label conflict)
+- Fix fuel switchers not working at all!
 - Fixed normal maps of all parts
 
 1.0.2
