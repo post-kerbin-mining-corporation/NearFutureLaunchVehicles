@@ -1,10 +1,14 @@
-1.0.3
+1.1.0
 -----
 - Fixed a typo in the AVC file
 - Fixed CTT location of 7.5m drone core
 - Fixed label of fuel switch on smallest 5m fuel tank (fixes CryoTanks label conflict)
 - Fix fuel switchers not working at all!
 - Fixed normal maps of all parts
+- Added NCR-1, NCR-2, NCR-4, NCR-8 Cargo Bays (5m)
+- Added NCR-N Nose Cargo bay (5m)
+- Added N-Series Service Bay (5m service compartment)
+- Added Z-32k Rechargeable Battery Bank
 
 1.0.2
 -----
