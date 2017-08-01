@@ -1,3 +1,18 @@
+1.1.0
+-----
+- Fixed a typo in the AVC file
+- Fixed cost and mass of 5m nosecone
+- Fixed CTT location of 7.5m drone core
+- Fixed label of fuel switch on smallest 5m fuel tank (fixes CryoTanks label conflict)
+- Fixed basic fuel switchers not working at all!
+- Fixed normal maps of all parts
+- Increased the side count of all 7.5m part colliders (fixes fairings not attaching)
+- Added NCR-1, NCR-2, NCR-4, NCR-8 Cargo Bays (5m)
+- Added NCR-N Nose Cargo bay (5m)
+- Added N-Series Service Bay (5m service compartment)
+- Added Z-32k Rechargeable Battery Bank (5m)
+- NR-AD-K1 Adapter (5m to 3.75m exploration upper stage style adapter)
+
 1.0.2
 -----
 - Fixed cost of 5m docking port
