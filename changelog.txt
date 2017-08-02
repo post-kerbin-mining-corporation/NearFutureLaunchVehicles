@@ -1,3 +1,7 @@
+1.1.1
+-----
+- Fixed a missing texture for the NR-AD-K1 Adapter
+
 1.1.0
 -----
 - Fixed a typo in the AVC file identifying the package as Far Future Technologies
