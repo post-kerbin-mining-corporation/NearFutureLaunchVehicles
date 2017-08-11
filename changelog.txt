@@ -1,3 +1,7 @@
+1.1.2
+-----
+- Adjusted max temps from 1200 to 2000 for many tank parts
+
 1.1.1
 -----
 - Fixed a missing texture for the NR-AD-K1 Adapter
