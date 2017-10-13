@@ -1,3 +1,19 @@
+1.1.2
+-----
+- KSP 1.3.1
+- Dependency update
+- Increased max temps from 1200 to 2000 for many tank parts
+- Increased breaking force/torque for 5m parts from 200 to 350
+- Increased breaking force/torque for 7.5m parts from 200 to 450
+- Increased thruster power of atmospheric RCS parts, flattened Isp curve
+- Increased fuel capacities of all 7.5m parts by 50%
+- Fixed incorrect volume tag on all 7.5m fuel tanks
+- Fixed mesh offset for 5m guidance core
+- Fixed small mesh offest for 5m cargo nosecone
+- Fixed incorrect volumes for 5m nosecone
+- Reduced fuel capacity of 5m skeletal adapter by 75%
+- Reduced fuel capacity of short 5m adapter by 50%
+
 1.1.1
 -----
 - Fixed a missing texture for the NR-AD-K1 Adapter
