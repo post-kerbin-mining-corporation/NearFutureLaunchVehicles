@@ -2,6 +2,7 @@
 -----
 - Fixed CryoTanks patch making nosecone negative mass happen
 - Fixed fuel capacity of short 3.75m adapter
+- Improved MFT patch courtesy of John Latour(ISE)
 
 1.1.2
 -----
