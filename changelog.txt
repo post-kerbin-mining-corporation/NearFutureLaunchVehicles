@@ -1,6 +1,6 @@
 1.1.4
 -----
-- Updated B9PartSwitch to 2.0.0
+- Updated B9PartSwitch to 2.1.0
 - Fixed a missing bracket in the small 5m to 3.75m adapter which caused all sorts of problems
 
 1.1.3
