@@ -1,7 +1,10 @@
 1.1.4
 -----
 - Updated B9PartSwitch to 2.1.0
+- Updated MM to 3.0.1
 - Fixed a missing bracket in the small 5m to 3.75m adapter which caused all sorts of problems
+- Added engine nicknames to tags (Kerbas ad astra)
+- Modified upper 7.5m cluster mount to be more space-efficient
 
 1.1.3
 -----
