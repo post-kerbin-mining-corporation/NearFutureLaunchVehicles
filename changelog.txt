@@ -1,8 +1,9 @@
 1.1.5
 -----
 - KSP 1.4.2
-- Updated B9PartSwitch to 
-- Updated MM to 
+- Updated B9PartSwitch to 2.2.1
+- Updated MM to 3.0.6
+- Updated MiniAVC to 1.2.0.1
 - Updated fairing textures to work with new fairing unwrap
 
 1.1.4
