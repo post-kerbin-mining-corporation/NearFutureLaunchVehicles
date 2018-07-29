@@ -1,3 +1,11 @@
+1.1.6
+-----
+- KSP 1.4.5
+- Widened versioning specification up to KSP 1.4.99
+- Updated B9PartSwitch to 2.3.3
+- Updated MM to 3.0.7
+- Added CLS patch
+
 1.1.5
 -----
 - KSP 1.4.2
