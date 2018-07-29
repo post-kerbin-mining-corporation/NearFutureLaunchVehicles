@@ -5,6 +5,7 @@
 - Updated B9PartSwitch to 2.3.3
 - Updated MM to 3.0.7
 - Added CLS patch
+- Fixed diameter of 7.5 to 5m adapter being slightly too large 
 
 1.1.5
 -----
