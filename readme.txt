@@ -1,5 +1,5 @@
 ==================================
-NEAR FUTURE LAUNCH VEHICLES v1.1.6
+NEAR FUTURE LAUNCH VEHICLES v1.1.7
 ==================================
 
 This mod is intended to provide a well-balanced, artistically consistent set of large launch vehicle parts for your launching pleasure. It contains both 5m and 7.5m size class parts as well as support components like RCS thrusters and clusterable engines.
@@ -10,8 +10,8 @@ DEPENDENCIES
 ============
 
 Required:
-- B9PartSwitch (2.2.3)
-- ModuleManager (v3.0.7)
+- B9PartSwitch (2.4.3)
+- ModuleManager (v3.1.0)
 
 Optional:
 - Community Tech Tree (v3.0+)
