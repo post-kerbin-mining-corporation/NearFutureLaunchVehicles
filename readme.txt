@@ -1,5 +1,5 @@
 ==================================
-NEAR FUTURE LAUNCH VEHICLES v1.1.6
+NEAR FUTURE LAUNCH VEHICLES v1.1.7
 ==================================
 
 This mod is intended to provide a well-balanced, artistically consistent set of large launch vehicle parts for your launching pleasure. It contains both 5m and 7.5m size class parts as well as support components like RCS thrusters and clusterable engines.
@@ -10,8 +10,8 @@ DEPENDENCIES
 ============
 
 Required:
-- B9PartSwitch (2.2.3)
-- ModuleManager (v3.0.7)
+- B9PartSwitch (2.4.5)
+- ModuleManager (v3.1.0)
 
 Optional:
 - Community Tech Tree (v3.0+)
@@ -33,13 +33,11 @@ LOCALIZATION
 This mod includes localization support, and includes translations for
 - Spanish (KSP forum user fitiales)
 
-============
-KSP-MINI-AVC
-============
+=======
+KSP-AVC
+=======
 
-This mod includes version checking using MiniAVC (http://forum.kerbalspaceprogram.com/threads/79745).
-If you opt-in, it will use the internet to check whether there is a new version available. Data is only read from the internet and no personal information is sent.
-For a more comprehensive version checking experience, please download the KSP-AVC Plugin (http://forum.kerbalspaceprogram.com/threads/79745).
+This mod is compatible with KSP-AVC version checking. For a comprehensive version checking experience, please download the appropriate plugin (http://forum.kerbalspaceprogram.com/threads/79745).
 
 =========
 LICENSING

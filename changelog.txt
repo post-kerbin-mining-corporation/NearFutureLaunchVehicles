@@ -1,3 +1,11 @@
+1.1.7
+-----
+- KSP 1.5.1
+- Updated B9PartSwitch to 2.4.5
+- Updated MM to 3.1.0
+- Removed MiniAVC distribution
+- Fixed an issue with the 5m docking port's collider
+
 1.1.6
 -----
 - KSP 1.4.5
@@ -5,7 +13,7 @@
 - Updated B9PartSwitch to 2.3.3
 - Updated MM to 3.0.7
 - Added CLS patch
-- Fixed diameter of 7.5 to 5m adapter being slightly too large 
+- Fixed diameter of 7.5 to 5m adapter being slightly too large
 
 1.1.5
 -----
