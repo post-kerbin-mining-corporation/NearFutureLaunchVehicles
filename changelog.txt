@@ -1,6 +1,8 @@
 1.1.8
 -----
-- Fixed MFT compatability (thanks blowfish)
+- Updated B9PartSwitch to 2.5.0
+- Fixed MFT compatibility (thanks blowfish)
+- Worked around an unsupported configuration that caused the 5m fuelled nosecone to throw errors if CryoTanks and other omni-switcher mods besides CryoTanks were installed (IFS, FSFuelswitch, WBI, etc)
 
 1.1.7
 -----
