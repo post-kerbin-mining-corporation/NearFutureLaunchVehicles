@@ -1,3 +1,10 @@
+1.1.9
+-----
+- KSP 1.6.x
+- Updated B9PartSwitch to 2.6.0
+- Updated MM to 3.1.3
+- Changed license of code/configs to MIT
+
 1.1.8
 -----
 - Updated B9PartSwitch to 2.5.0
