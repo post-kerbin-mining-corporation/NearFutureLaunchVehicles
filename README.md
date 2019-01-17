@@ -5,7 +5,6 @@ A mod pack for Kerbal Space Program, delivering a high quality expansion to orbi
 * [Features](#features)
 * [Dependencies](#dependencies)
 * [Installation](#installation)
-* [Optional Patches](#optional-patches)
 * [External Compatibility](#features)
 * [Contributing](#contributing)
 
