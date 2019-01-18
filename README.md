@@ -52,7 +52,7 @@ I certainly accept pull requests. Please target all such things to the `dev` bra
 For translation instructions please see [Localization Instructions](https://github.com/ChrisAdderley/NearFutureLaunchVehicles/blob/master/GameData/NearFutureLaunchVehicles/Localization/Localization.md)
 
 * **Spanish**: fitiales
-
+* **German**: Three_Pounds
 
 ## Licensing
 

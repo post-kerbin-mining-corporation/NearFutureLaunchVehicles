@@ -1,6 +1,7 @@
 1.1.10
 ------
 - Fixed engine CTT patch (LouisB3)
+- Added German translation (Three_Pounds)
 
 1.1.9
 -----
