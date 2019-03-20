@@ -1,0 +1,28 @@
+{
+    "license": "restricted",
+    "identifier": "NearFutureLaunchVehicles",
+    "$kref": "#/ckan/spacedock/1434",
+    "$vref": "#/ckan/ksp-avc/GameData/NearFutureLaunchVehicles/Versioning/NearFutureLaunchVehicles.version",
+    "spec_version": "v1.4",
+    "name"                : "Near Future Launch Vehicles",
+    "abstract"            : "Large launch vehicle parts in the 5 and 7.5m size categories",
+    "author"              : "Nertea",
+    "resources": {
+      "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/155465-16x-near-future-technologies-16x-fixes-jan-21/",
+      "repository": "https://github.com/ChrisAdderley/NearFutureLaunchVehicles"
+    },
+    "depends" : [
+        { "name" : "ModuleManager" },
+        { "name" : "B9PartSwitch" }
+                ],
+    "recommends" : [
+        {"name" : "CommunityTechTree" } ],
+    "suggests" : [
+        {"name" : "CryoEngines" },
+        {"name" : "KerbalAtomics" }
+                ],
+    "install" : [
+        { "find" : "NearFutureLaunchVehicles",
+          "install_to" : "GameData" }
+                ]
+}
