@@ -22,7 +22,7 @@ This mod features a number of useful parts, mostly focused on very large launch 
 ### Required
 These components are required for the mod to function and are bundled as part of any download:
 * [ModuleManager (4.0.2)](https://github.com/sarbian/ModuleManager)
-* [B9PartSwitch (2.6.0)](https://github.com/blowfishpro/B9PartSwitch)
+* [B9PartSwitch (2.7.0)](https://github.com/blowfishpro/B9PartSwitch)
 
 ## Installation
 

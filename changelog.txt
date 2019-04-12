@@ -1,7 +1,9 @@
 1.1.11
 ------
-- KSP 1.76.x
-- Updated MM to 4.0.2
+- KSP 1.7.x
+- Updated ModuleManger to 4.0.2
+- Updated B9PartSwitch to 2.7.0
+- Updated RCS part masses, costs and unlock cost to be in line with 1.7 RCS changes
 
 1.1.10
 ------
