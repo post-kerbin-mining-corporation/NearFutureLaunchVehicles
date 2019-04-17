@@ -1,3 +1,11 @@
+1.1.11
+------
+- KSP 1.7.x
+- Updated ModuleManger to 4.0.2
+- Updated B9PartSwitch to 2.7.0
+- Updated RCS part masses, costs and unlock cost to be in line with 1.7 RCS changes
+- Added a thrustTransform object to the two bottom RCS outlets for both variants of the aerodynamic heavy RCS
+
 1.1.10
 ------
 - Fixed engine CTT patch (LouisB3)
