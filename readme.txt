@@ -33,6 +33,7 @@ LOCALIZATION
 This mod includes localization support, and includes translations for
 - Spanish (KSP forum user fitiales)
 - German (KSP forum user Three_Pounds)
+- Russian (KSP forum user Sooll3)
 
 =======
 KSP-AVC
