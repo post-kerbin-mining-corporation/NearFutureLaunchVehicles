@@ -1,6 +1,6 @@
-===================================
-NEAR FUTURE LAUNCH VEHICLES v1.1.11
-===================================
+==================================
+NEAR FUTURE LAUNCH VEHICLES v1.2.0
+==================================
 
 This mod is intended to provide a well-balanced, artistically consistent set of large launch vehicle parts for your launching pleasure. It contains both 5m and 7.5m size class parts as well as support components like RCS thrusters and clusterable engines.
 It works well with the entire suite of Near Future Technologies mods, as well as my other packs such as Cryogenic Engines and Kerbal Atomics.
@@ -10,7 +10,7 @@ DEPENDENCIES
 ============
 
 Required:
-- B9PartSwitch (2.7.0)
+- B9PartSwitch (2.8.1)
 - ModuleManager (v4.0.2)
 
 Optional:
