@@ -2,7 +2,10 @@
 ------
 - Updated B9PartSwitch to 2.8.1
 - Art update for advanced LFO engines
-- Advanced LFO engines now have shrouds
+  - Overall approach now pulls from CryoEngines and Restock art directions
+  - Uses new LCH4 colour scheme (green/red based)
+  - Greys/specular changed to be closer to better art
+- Advanced LFO engines now have autoshrouds
 - Changed advanced LFO engines to use the new Restock-like emssives method
 - New plumes for advanced LFO engines
 - Added new Extras package: CryoEnginesMethalox
