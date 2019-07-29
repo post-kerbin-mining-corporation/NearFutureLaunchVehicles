@@ -1,16 +1,16 @@
 1.2.0
 ------
 - Updated B9PartSwitch to 2.8.1
-- Art update for advanced LFO engines
-  - Overall approach now pulls from CryoEngines and Restock art directions
-  - Uses new LCH4 colour scheme (green/red based)
-  - Greys/specular changed to be closer to better art
-- Advanced LFO engines now have autoshrouds
-- Changed advanced LFO engines to use the new Restock-like emssives method
-- New plumes for advanced LFO engines
+- Rework of advanced LFO engines
+  - Repainted textures, cleaned up some model elements - overall approach now pulls from CryoEngines and Restock art directions
+  - Added Vulcan-inspired boattail option to BE-4-alike engine
+  - Uses new LCH4 colour scheme (white/green-based)
+  - Added autoshouds to ring/compact variants
+  - Now use the new Restock-like emissives/heat animation method
+  - Modified model numbers to consolidate them in the patch list
 - Added new Extras package: CryoEnginesMethalox
-  - Converts the existing Advanced LFO engines to use LM/O
-  - Requires CRP and CryoTanks > 1.2.0
+  - Converts the mod's LFO engines to use LCH4/OX, for about a 30s Isp bonus
+  - Requires CRP and CryoTanks >= 1.2.0
 
 1.1.11
 ------
