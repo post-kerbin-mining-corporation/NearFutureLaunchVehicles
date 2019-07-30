@@ -1,6 +1,7 @@
 1.2.0
 ------
-- Updated B9PartSwitch to 2.8.1
+- Updated B9PartSwitch to 2.9.0
+- Made use of new UI features in B9PS for many parts
 - Rework of advanced LFO engines
   - Repainted textures, cleaned up some model elements - overall approach now pulls from CryoEngines and Restock art directions
   - Added Vulcan-inspired boattail option to BE-4-alike engine
