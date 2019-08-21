@@ -1,3 +1,7 @@
+1.2.2
+-----
+- Fixed an engine plume element being sideways
+
 1.2.1
 -----
 - Added new custom RealPlume configs courtesy of Zorg
