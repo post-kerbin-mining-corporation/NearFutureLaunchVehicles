@@ -1,3 +1,9 @@
+1.2.3
+-----
+- Updated B9PartSwitch to 2.10.0
+- Fixed incorrect labeling of Buzzard's Compact and Boattail variants
+- Restructured how RealPlume FX is handled (Zorg)
+
 1.2.2
 -----
 - Fixed an engine plume element being sideways
