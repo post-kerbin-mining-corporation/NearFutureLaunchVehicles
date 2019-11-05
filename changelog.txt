@@ -1,3 +1,11 @@
+1.3.0
+-----
+- KSP 1.8.x
+- Updated B9PartSwitch to 2.12.1
+- Updated ModuleManger to 4.1.0
+- Updated Russian translation (Sool3)
+- Custom EngineLight configs (Zorg)
+
 1.2.3
 -----
 - Updated B9PartSwitch to 2.10.0
