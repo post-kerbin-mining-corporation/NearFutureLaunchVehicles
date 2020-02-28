@@ -14,16 +14,16 @@ This mod features a number of useful parts, mostly focused on very large launch 
 
 * **5.0m Parts:** a balanced and extensive part set that provides a new size of rocket parts. Comes with tanks, cargo pieces, adapters, utility parts and specialized components for engine clustering.
 * **7.5m Parts:** an extra-large set of rocket parts for those huge constructions. Includes adapters, clustering and utility parts.
-* **Advanced Engines:** several new rocket engines based on upcoming NewSpace engines in the 1.25 and 2.5m sizes that push the LFO performance envelope and are great for clustering
-* **Support Parts:** new supporting parts that help enhance the large rocket experience, like heavy RCS thrusters.
+* **Advanced Engines:** several new rocket booster engines in the 1.25 and 2.5m sizes that push the LFO performance envelope and are great for clustering
+* **Support Parts:** new supporting parts that help enhance the large rocket experience, like heavy RCS thrusters and large legs
 
 ## Dependencies
 
 ### Required
 These components are required for the mod to function and are bundled as part of any download:
-* [ModuleManager (4.1.0)](https://github.com/sarbian/ModuleManager)
-* [B9PartSwitch (2.12.1)](https://github.com/blowfishpro/B9PartSwitch)
-* [DeployableEngines (1.2.0)](https://github.com/ChrisAdderley/DeployableEngines)
+* [ModuleManager (4.1.3)](https://github.com/sarbian/ModuleManager)
+* [B9PartSwitch (2.13.0)](https://github.com/blowfishpro/B9PartSwitch)
+* [DeployableEngines (1.2.1)](https://github.com/ChrisAdderley/DeployableEngines)
 
 ## Installation
 

@@ -1,10 +1,46 @@
 1.4.0
 -----
+- KSP 1.9.x
+- Updated B9PartSwitch to 2.13.0
+- Updated ModuleManager to 4.1.3
 - SOFT-DEPRECATED ALL PARTS
 - New/redone part lineup
  - Engines
+  - KR-1 'Walrus' Liquid Fuel Engine: advanced 1.25m LFO booster engine. Available in 1.25m, Boattail and Compact variants.
+  - KR-1C6 'Manatee' Liquid Fuel Engine: advanced 3.75m LFO booster engine.
+  - KR-84 'Porpoise' Liquid Fuel Engine: advanced 1.875m LFO booster engine. Available in 1.875, 2.5m, Boattail and compact variants.
+  - KS-60 'Orca' Liquid Fuel Engine: advanced 2.5m LFO booster engine. Available in 2.5m, 3.75m, Boattail and compact variants.
  - 5m stack parts
+  - NR-51200 Fuel Tank: 5m long fuel tank. Comes in White, Black and White, and Orange colours.
+  - NR-25600 Fuel Tank: 5m medium fuel tank. Comes in White, Black and White, and Orange colours.
+  - NR-12800 Fuel Tank: 5m short fuel tank. Comes in White, Black and White, and Orange colours.
+  - NR-6400 Fuel Tank: 5m tiny fuel tank. Comes in White, Black and White, and Orange colours.
+  - NR-AD-10400 Adapter: 5m long fuel tank adapter. Comes in White, Black and White, and Orange colours. Can switch to a hollow structural version.
+  - NR-AD-6400 Adapter: 5m medium fuel tank adapter. Comes in White, Black and White, and Orange colours. Can switch to a hollow structural version.
+  - NR-AD-2600 Adapter: 5m short fuel tank adapter. Comes in White, Black and White, and Orange colours. Can switch to a hollow structural version.
+  - NR-AD-CAP Adapter: 5m flat adapter. Comes in White, Black and White, and Orange colours.
+  - NR-C-12800 Fuelled Nosecone: 5m long fuelled nosecone. Comes in White and Orange colours.
+  - NR-C-6400 Rounded Nosecone: 5m rounded noseconse. Comes in White and Orange colours.
+  - NCR-8 Cargo Bay: Long 5m cargo bay
+  - NCR-4 Cargo Bay: Medium 5m cargo bay
+  - NCR-2 Cargo Bay: Short 5m cargo bay
+  - NCR-1 Cargo Bay: Tiny 5m cargo bay.
+  - NCR-N Nose Cargo Bay: 5m nose cargo bay
+  - AE-FF4 Payload Fairing (5.0m): 5m fairing base. Comes in White, Black and White, and Orange colours.
+  - Clamp-O-Tron Mondo Docking Port: 5m docking port
+  - TR-500 Stack Decoupler: 5m decoupler. Comes in White, Black and White, and Orange colours.
+  - T2-500 Stack Separator 5m separator. Comes in White, Black and White, and Orange colours.
+  - NR-L1 Lower Stage Engine Mount: Energia-alike engine cluster mount.
+  - NR-L2 Lower Stage Engine Mount: SLS-alike engine cluster mount.
+  - NR-L3 Lower Stage Engine Mount: New Glenn-alike engine cluster mount.
+  - NR-L4 Lower Stage Engine Mount: Superheavy-alike engine cluster mount.
+  - NR-U1 Upper Stage Engine Mount: Starship-alike upper stage mount. Comes with multi-length interstage
+  - NR-U2 Upper Stage Engine Mount: Energia-M-alike upper stage mount. Comes with multi-length interstage
+  - NR-U3 Upper Stage Engine Mount: S-II-alike upper stage mount. Comes with multi-length interstage
+  - Z-32K Rechargeable Battery Bank: 5m battery bank
+  - R-N Guidance Computer Unit: 5m guidance unit.
  - Radial parts
+
  - NCR-1, NCR-2, NCR-4, NCR-8 Cargo Bays (5m)
  - NCR-N Nose Cargo bay (5m)
  - Z-32k Rechargeable Battery Bank (5m)

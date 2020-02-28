@@ -10,8 +10,8 @@ DEPENDENCIES
 ============
 
 Required:
-- B9PartSwitch (2.12.1)
-- ModuleManager (v4.1.0)
+- B9PartSwitch (2.13.01)
+- ModuleManager (v4.1.3)
 
 Optional:
 - Community Tech Tree (v3.0+)
