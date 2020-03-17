@@ -39,7 +39,23 @@
   - NR-U3 Upper Stage Engine Mount: S-II-alike upper stage mount. Comes with multi-length interstage
   - Z-32K Rechargeable Battery Bank: 5m battery bank
   - R-N Guidance Computer Unit: 5m guidance unit.
+ - 7.5m parts
+  
+  - R-EX Guidance Computer Unit
  - Radial parts
+ - RCS
+  - RQ-5x1 Heavy RCS Thruster: heavy RCS thruster (single)
+  - RQ-5x4 Heavy RCS Thruster: heavy RCS block (quad)
+  - RJ-88x1 Heavy Bipropellant RCS Thruster: LFO heavy RCS thruster (single)
+  - RJ-88x4 Heavy Bipropellant RCS Thruster: LFO heavy RCS block (quad)
+  - RQ-5-A Aerodynamic Heavy RCS Block: aerodynamic heavy RCS block
+  - RJ-88-A Aerodynamic Heavy Bipropellant RCS Block: LFO aerodynamic heavy RCS block
+  - AVCS-Ax4 Integrated RCS Block: RCS block with built-in fuel cell and battery. Runs off LFO.
+  - AVCS-Ax4-A Integrated RCS Block: RCS block with built-in fuel cell and battery. Runs off LFO.
+  - AVCS-Ax2 Integrated RCS Block: RCS block with built-in fuel cell and battery. Runs off LFO.
+  - AVCS-Bx4 Integrated RCS Block: RCS block with built-in fuel cell and battery. Runs off LH2/O. Only activated if CryoTanks is installed.
+  - AVCS-Bx4-A Integrated RCS Block: RCS block with built-in fuel cell and battery. Runs off LH2/O. Only activated if CryoTanks is installed.
+  - AVCS-Bx2 Integrated RCS Block: RCS block with built-in fuel cell and battery. Runs off LH2/O. Only activated if CryoTanks is installed.
 
  - NCR-1, NCR-2, NCR-4, NCR-8 Cargo Bays (5m)
  - NCR-N Nose Cargo bay (5m)
