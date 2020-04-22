@@ -1,9 +1,9 @@
-1.4.0
+2.0.0
 -----
 - KSP 1.9.x
 - Updated B9PartSwitch to 2.16.0
 - Updated ModuleManager to 4.1.3
-- SOFT-DEPRECATED ALL PARTS
+- SOFT-DEPRECATED ALL OLD PARTS
 - New/redone part lineup
  - Engines
   - KS-1E 'Goldfish' Liquid Fuel Engine: Micro booster engine based on RocketLab Rutherford. 0.625m and Compact variants.
@@ -18,6 +18,11 @@
   - KR-84 'Ocelot' Liquid Fuel Engine: Large sustainer engine based on RS-84. 2.5m, Boattail and Compact variants.
   - KR-701 'Cougar' Liquid Fuel Engine: Huge sustainer engine based on RD-701. 3.75m, Boattail and Compact variants.
  - 5m stack parts
+  - Z-32K Rechargeable Battery Bank: 5m battery bank
+  - R-N Guidance Computer Unit: 5m guidance unit.
+  - Clamp-O-Tron Mondo Docking Port: 5m docking port
+  - TD-500 Stack Decoupler: 5m decoupler. Comes in White, Black and White, and Orange colours.
+  - TS-500 Stack Separator 5m separator. Comes in White, Black and White, and Orange colours.
   - NR-51200 Fuel Tank: 5m long fuel tank. Comes in White, Black and White, and Orange colours.
   - NR-25600 Fuel Tank: 5m medium fuel tank. Comes in White, Black and White, and Orange colours.
   - NR-12800 Fuel Tank: 5m short fuel tank. Comes in White, Black and White, and Orange colours.
@@ -34,12 +39,9 @@
   - NCR-2 Cargo Bay: Short 5m cargo bay
   - NCR-1 Cargo Bay: Tiny 5m cargo bay.
   - NCR-N Nose Cargo Bay: 5m nose cargo bay
-  - N-Series Service Bay: 5m service bay with toggleable floor. 
+  - N-Series Service Bay: 5m service bay with toggleable floor.
   - AE-FF4 Payload Fairing (5.0m): 5m fairing base. Comes in White, Black and White, and Orange colours.
-  - N-Series Structural Tube: Multi-length interstage cargo tube with built-in decoupler. 
-  - Clamp-O-Tron Mondo Docking Port: 5m docking port
-  - TR-500 Stack Decoupler: 5m decoupler. Comes in White, Black and White, and Orange colours.
-  - TS-500 Stack Separator 5m separator. Comes in White, Black and White, and Orange colours.
+  - N-Series Structural Tube: Multi-length interstage cargo tube with built-in decoupler.
   - NR-L1 Lower Stage Engine Mount: Energia-alike engine cluster mount.
   - NR-L2 Lower Stage Engine Mount: SLS-alike engine cluster mount.
   - NR-L3 Lower Stage Engine Mount: New Glenn-alike engine cluster mount.
@@ -47,9 +49,11 @@
   - NR-U1 Upper Stage Engine Mount: Starship-alike upper stage mount. Comes with multi-length interstage
   - NR-U2 Upper Stage Engine Mount: Energia-M-alike upper stage mount. Comes with multi-length interstage
   - NR-U3 Upper Stage Engine Mount: S-II-alike upper stage mount. Comes with multi-length interstage
-  - Z-32K Rechargeable Battery Bank: 5m battery bank
-  - R-N Guidance Computer Unit: 5m guidance unit.
  - 7.5m parts
+  - TD-750 Stack Decoupler: 5m decoupler.
+  - TS-750 Stack Separator: 5m separator.
+  - R-EX Guidance Computer Unit: 7.5m guidance unit
+  - Z-72K Rechargeable Battery Bank: 7.5m battery bank
   - EA-F768 Fuel Tank: 7.5m long fuel tank.
   - EA-F384 Fuel Tank: 7.5m medium fuel tank.
   - EA-F192 Fuel Tank: 7.5m small fuel tank.
@@ -57,25 +61,21 @@
   - EA-EA-F1536 Fuel Tank: 7.5m extra long fuel tank.
   - EA-S20 Fuel Tank Adapter: Long 7.5m tank adapter. Can switch to a hollow structural version.
   - EA-S10 Fuel Tank Adapter: Short 7.5m tank adapter. Can switch to a hollow structural version.
+  - ER-AD-SKL Adapter: 7.5m skeletal adapter. Can add upper, lower or both fuel tanks.
+  - EA-C-TBD Fuelled Nosecone: Fuelled 7.5m nosecone
+  - EA-C-TBD Rounded Nosecone: Round nosecone
   - ECR-N Nose Cargo Bay: Nose cargo bay
   - ECR-1 Cargo Bay: Really long 7.5m cargo bay
   - ECR-2 Cargo Bay: Medium 7.5m cargo bay
   - ECR-4 Cargo Bay: Small 7.5m cargo bay
   - ECR-8 Cargo Bay: Tiny 7.5m cargo bay
   - E-Series Service Bay: 7.5m service bay
-  - AE-FF5 Payload Fairing (7.5m): 7.5m paylod fairing, White and Black and White variants.
-  - TR-750 Stack Decoupler: 5m decoupler.
-  - TS-750 Stack Separator 5m separator. 
-  - R-EX Guidance Computer Unit: 7.5m guidance unit
-  - Z-72K Rechargeable Battery Bank: 7.5m battery bank
+  - E-Series Structural Tube: Multi-length interstage cargo tube with built-in decoupler.
+  - AE-FF5 Payload Fairing (7.5m): 7.5m payload fairing, White and Black and White variants.
   - ER-L1 Lower Stage Engine Mount: BFR-alike engine cluster mount.
   - ER-L2 Lower Stage Engine Mount: Large engine cluster mount.
   - ER-U1 Upper Stage Engine Mount: ITS-alike upper stage mount. Comes with multi-length interstage
   - ER-U2 Upper Stage Engine Mount: EUS-alike upper stage mount. Comes with multi-length interstage
-  - EA-C-TBD Fuelled Nosecone: Fuelled 7.5m nosecone
-  - EA-C-TBD Rounded Nosecone: Round nosecone
-  - ER-AD-SKL Adapter: 7.5m skeletal adapter. Can add upper, lower or both fuel tanks.
-  - E-Series Structural Tube: Multi-length interstage cargo tube with built-in decoupler. 
  - Radial parts
  - RCS
   - RQ-5x1 Heavy RCS Thruster: heavy RCS thruster (single)
@@ -84,9 +84,9 @@
   - RJ-88x4 Heavy Bipropellant RCS Thruster: LFO heavy RCS block (quad)
   - RQ-5-A Aerodynamic Heavy RCS Block: aerodynamic heavy RCS block
   - RJ-88-A Aerodynamic Heavy Bipropellant RCS Block: LFO aerodynamic heavy RCS block
-  - AVCS-4 Integrated RCS Block: LFO RCS block with built-in fuel cell and battery
-  - AVCS-4A Integrated RCS Block: LFO RCS block with built-in fuel cell and battery
-  - AVCS-3 Integrated RCS Block: LFO RCS block with built-in fuel cell and battery
+  - AVCS-4 Integrated RCS Block: LFO RCS block (4x) with built-in fuel cell and battery
+  - AVCS-4A Integrated RCS Block: LFO RCS block (4x, angled) with built-in fuel cell and battery
+  - AVCS-3 Integrated RCS Block: LFO RCS block (3x) with built-in fuel cell and battery
 - RCS parts take advantage of RestockDepthMask if Restock is installed
 - Fairing parts tank advantage of RestockModifyFairingMaterials to not look like garbage if Restock is installed
 - If CryoTanks is installed, the following parts are added/modified
@@ -97,7 +97,8 @@
  - AVCS-CH4-4 Integrated RCS Block: Methalox RCS block with built-in fuel cell and battery
  - AVCS-CH4-4A Integrated RCS Block: Methalox RCS block with built-in fuel cell and battery
  - AVCS-CH4-3 Integrated RCS Block: Methalox RCS block with built-in fuel cell and battery
-
+- If Making History is installed, some overlapping Making History parts will be disabled.
+- If Restock+ is installed, some overlapping Restock+ parts will be disabled
 1.3.0
 -----
 - KSP 1.8.x

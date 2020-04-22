@@ -15,7 +15,7 @@ This mod features a number of useful parts, mostly focused on very large launch 
 * **5.0m Parts:** a balanced and extensive part set that provides a new size of rocket parts. Comes with tanks, cargo pieces, adapters, utility parts and specialized components for engine clustering.
 * **7.5m Parts:** an extra-large set of rocket parts for those huge constructions. Includes adapters, cargo bays, clustering and utility parts.
 * **Advanced Engines:** several new rocket booster engines in 0.625 to 3.75m sizes that push the LFO performance envelope and are great for clustering
-* **Support Parts:** new supporting parts that help enhance the large rocket experience, like heavy RCS thrusters
+* **Support Parts:** new supporting parts that help enhance the large rocket experience, like heavy RCS thrusters and big decouplers
 
 ## Dependencies
 

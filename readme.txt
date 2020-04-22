@@ -12,7 +12,7 @@ DEPENDENCIES
 Required:
 - B9PartSwitch (2.13.0)
 - ModuleManager (v4.1.3)
-
+- DeployableEngines (v1.2.1)
 Optional:
 - Community Tech Tree (v3.0+)
 
