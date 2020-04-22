@@ -74,6 +74,8 @@
   - ER-U2 Upper Stage Engine Mount: EUS-alike upper stage mount. Comes with multi-length interstage
   - EA-C-TBD Fuelled Nosecone: Fuelled 7.5m nosecone
   - EA-C-TBD Rounded Nosecone: Round nosecone
+  - ER-AD-SKL Adapter: 7.5m skeletal adapter. Can add upper, lower or both fuel tanks.
+  - E-Series Structural Tube: Multi-length interstage cargo tube with built-in decoupler. 
  - Radial parts
  - RCS
   - RQ-5x1 Heavy RCS Thruster: heavy RCS thruster (single)
@@ -82,9 +84,19 @@
   - RJ-88x4 Heavy Bipropellant RCS Thruster: LFO heavy RCS block (quad)
   - RQ-5-A Aerodynamic Heavy RCS Block: aerodynamic heavy RCS block
   - RJ-88-A Aerodynamic Heavy Bipropellant RCS Block: LFO aerodynamic heavy RCS block
+  - AVCS-4 Integrated RCS Block: LFO RCS block with built-in fuel cell and battery
+  - AVCS-4A Integrated RCS Block: LFO RCS block with built-in fuel cell and battery
+  - AVCS-3 Integrated RCS Block: LFO RCS block with built-in fuel cell and battery
 - RCS parts take advantage of RestockDepthMask if Restock is installed
 - Fairing parts tank advantage of RestockModifyFairingMaterials to not look like garbage if Restock is installed
-
+- If CryoTanks is installed, the following parts are added/modified
+ - AVCS-LH2-4 Integrated RCS Block: LH2O RCS block with built-in fuel cell and battery
+ - AVCS-LH2-4A Integrated RCS Block: LH2O RCS block with built-in fuel cell and battery
+ - AVCS-LH2-3 Integrated RCS Block: LH2O RCS block with built-in fuel cell and battery
+- If CryoTanksMethalox is installed, the following parts are added/modified
+ - AVCS-CH4-4 Integrated RCS Block: Methalox RCS block with built-in fuel cell and battery
+ - AVCS-CH4-4A Integrated RCS Block: Methalox RCS block with built-in fuel cell and battery
+ - AVCS-CH4-3 Integrated RCS Block: Methalox RCS block with built-in fuel cell and battery
 
 1.3.0
 -----

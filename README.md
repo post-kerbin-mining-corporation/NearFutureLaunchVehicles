@@ -13,16 +13,16 @@ A mod pack for Kerbal Space Program, delivering a high quality expansion to orbi
 This mod features a number of useful parts, mostly focused on very large launch vehicles.
 
 * **5.0m Parts:** a balanced and extensive part set that provides a new size of rocket parts. Comes with tanks, cargo pieces, adapters, utility parts and specialized components for engine clustering.
-* **7.5m Parts:** an extra-large set of rocket parts for those huge constructions. Includes adapters, clustering and utility parts.
-* **Advanced Engines:** several new rocket booster engines in the 1.25 and 2.5m sizes that push the LFO performance envelope and are great for clustering
-* **Support Parts:** new supporting parts that help enhance the large rocket experience, like heavy RCS thrusters and large legs
+* **7.5m Parts:** an extra-large set of rocket parts for those huge constructions. Includes adapters, cargo bays, clustering and utility parts.
+* **Advanced Engines:** several new rocket booster engines in 0.625 to 3.75m sizes that push the LFO performance envelope and are great for clustering
+* **Support Parts:** new supporting parts that help enhance the large rocket experience, like heavy RCS thrusters
 
 ## Dependencies
 
 ### Required
 These components are required for the mod to function and are bundled as part of any download:
 * [ModuleManager (4.1.3)](https://github.com/sarbian/ModuleManager)
-* [B9PartSwitch (2.13.0)](https://github.com/blowfishpro/B9PartSwitch)
+* [B9PartSwitch (2.16.1)](https://github.com/blowfishpro/B9PartSwitch)
 * [DeployableEngines (1.2.1)](https://github.com/ChrisAdderley/DeployableEngines)
 
 ## Installation
@@ -38,7 +38,7 @@ This mod includes compatibility patches for the following mods:
 * [Community Tech Tree](https://github.com/ChrisAdderley/CommunityTechTree): Provides an expanded, community-sourced technology tree for modders to use
 * ASET Props: If ASET Props and RPM are installed, certain command pods will have RPM layouts
 * Connected Living Spaces: Correctly marks parts as passable or impassable
-* CryoTanks: Allows storage of cryogenic fuels if CryoTanks is installed
+* CryoTanks: Allows storage of cryogenic fuels if CryoTanks is installed. In addition, some RCS blocks will get LH2/O variants
 * Real Fuels: Support for RealFuels fuel types
 * Modular Fuel Tanks: Support for storing any fuel in MFT tanks
 
