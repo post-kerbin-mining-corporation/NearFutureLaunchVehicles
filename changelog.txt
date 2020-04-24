@@ -77,6 +77,7 @@
   - ER-U1 Upper Stage Engine Mount: ITS-alike upper stage mount. Comes with multi-length interstage
   - ER-U2 Upper Stage Engine Mount: EUS-alike upper stage mount. Comes with multi-length interstage
  - Radial parts
+  - TTR-6R Radial Decoupler: heavy decoupler
  - RCS
   - RQ-5x1 Heavy RCS Thruster: heavy RCS thruster (single)
   - RQ-5x4 Heavy RCS Thruster: heavy RCS block (quad)
