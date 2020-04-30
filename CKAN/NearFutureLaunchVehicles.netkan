@@ -13,7 +13,8 @@
     },
     "depends" : [
         { "name" : "ModuleManager" },
-        { "name" : "B9PartSwitch" }
+        { "name" : "B9PartSwitch" },
+        { "name  : "DeployableEngines" }
                 ],
     "recommends" : [
         {"name" : "CommunityTechTree" } ],
