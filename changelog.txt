@@ -1,3 +1,13 @@
+2.0.1
+-----
+- Updated B9PartSwitch to 2.16.0 for real this time.
+- Fixed cost and mass of double-length 7.5m fuel tank
+- Increased node size on ER-L1 engine mount so they're visible under the bumps
+- Fixed some inconsistencies in node cost/mass on some cluster mounts
+- Moved top and surface attach nodes on Orca engine when Compact variant is selected
+- Adjusted node for ER-U1 engine mount's shroud variants
+- Fixed rotation of stupid garbage stock smoke plumes of garbage
+
 2.0.0
 -----
 - KSP 1.9.x
