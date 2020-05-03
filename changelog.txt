@@ -7,6 +7,7 @@
 - Moved top and surface attach nodes on Orca engine when Compact variant is selected
 - Adjusted node for ER-U1 engine mount's shroud variants
 - Fixed rotation of stupid garbage stock smoke plumes of garbage
+- Added patches for CCK compataiblity (HorusAK)
 
 2.0.0
 -----
