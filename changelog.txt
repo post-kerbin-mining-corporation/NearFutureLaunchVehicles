@@ -1,3 +1,9 @@
+2.0.2
+-----
+- Fixed some localization issues
+- Fixed FX specification lines of 5/7.5m decouplers
+- Fixed CTT location of 7.5m adapters
+
 2.0.1
 -----
 - Updated B9PartSwitch to 2.16.0 for real this time.
