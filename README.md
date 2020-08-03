@@ -21,9 +21,9 @@ This mod features a number of useful parts, mostly focused on very large launch 
 
 ### Required
 These components are required for the mod to function and are bundled as part of any download:
-* [ModuleManager (4.1.3)](https://github.com/sarbian/ModuleManager)
-* [B9PartSwitch (2.16.1)](https://github.com/blowfishpro/B9PartSwitch)
-* [DeployableEngines (1.2.1)](https://github.com/ChrisAdderley/DeployableEngines)
+* [ModuleManager (4.1.4)](https://github.com/sarbian/ModuleManager)
+* [B9PartSwitch (2.17.0)](https://github.com/blowfishpro/B9PartSwitch)
+* [DeployableEngines (1.2.2)](https://github.com/ChrisAdderley/DeployableEngines)
 
 ## Installation
 
