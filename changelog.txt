@@ -1,3 +1,14 @@
+2.1.0
+-----
+- KSP 1.11
+- Updated DeployableEngines to 1.2.3
+- Hidden parts now have zero tech cost (Wyzard256)
+- Updated Russian localization (r4nd0m)
+- Made some parts (but not many) storeable in inventories
+- Added Waterfall support to most if not all engines
+- Adjusted thrust of all large monopropellant RCS to 10 kN per jet
+- Adjusted thrust of all large bipropellant RCS to 8 kN per jet
+
 2.0.3
 -----
 - KSP 1.10.1+ 

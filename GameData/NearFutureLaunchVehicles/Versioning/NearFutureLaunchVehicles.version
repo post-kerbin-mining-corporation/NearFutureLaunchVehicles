@@ -1,19 +1,19 @@
 {
     "NAME":"NearFutureLaunchVehicles",
-    "URL":"https://raw.githubusercontent.com/ChrisAdderley/NearFutureLaunchVehicles/master/GameData/NearFutureLaunchVehicles/Versioning/NearFutureLaunchVehicles.version",
+    "URL":"https://raw.githubusercontent.com/post-kerbin-mining-corporation/NearFutureLaunchVehicles/master/GameData/NearFutureLaunchVehicles/Versioning/NearFutureLaunchVehicles.version",
     "DOWNLOAD":"http://forum.kerbalspaceprogram.com/index.php?/topic/155465-130-near-future-technologies-june-30",
     "VERSION":
     {
         "MAJOR":2,
-        "MINOR":0,
-        "PATCH":3,
+        "MINOR":1,
+        "PATCH":0,
         "BUILD":0
     },
     "KSP_VERSION":
     {
         "MAJOR":1,
-        "MINOR":10,
-        "PATCH":1
+        "MINOR":11,
+        "PATCH":0
     },
     "KSP_VERSION_MIN":{
         "MAJOR":1,
@@ -22,7 +22,7 @@
     },
     "KSP_VERSION_MAX":{
         "MAJOR":1,
-        "MINOR":10,
+        "MINOR":11,
         "PATCH":99
     }
 }
