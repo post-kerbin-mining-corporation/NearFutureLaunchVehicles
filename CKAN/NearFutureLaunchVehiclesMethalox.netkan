@@ -6,7 +6,7 @@
     "spec_version": "v1.4",
     "name"                : "Near Future Technologies - Methalox Engines",
     "abstract"            : "Modifies the new engines in Near Future Launch Vehicles to use LCH4/OX instead of LF/O",
-    "author"              : "Nertea",
+    "author"              : "Nertea (Chris Adderley)",
     "resources": {
       "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/155465-16x-near-future-technologies-16x-fixes-jan-21/",
       "repository": "https://github.com/post-kerbin-mining-corporation/NearFutureLaunchVehicles"
