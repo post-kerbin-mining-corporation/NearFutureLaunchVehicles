@@ -55,6 +55,7 @@ For translation instructions please see [Localization Instructions](https://gith
 * **Spanish**: fitiales
 * **German**: Three_Pounds
 * **Russian**: Sooll3
+* **Simplified Chinese**: ArkiraKawakaze
 
 ## Licensing
 
