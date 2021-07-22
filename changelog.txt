@@ -2,9 +2,15 @@
 -----
 - KSP 1.12
 - DELETED ALL LEGACY PARTS
-- Retired NearFutureMethalox extra permanently
+- Retired NearFutureMethalox extra
 - Updated DeployableEngines to 1.3.1
 - Updated B9PartSwitch to 2.18.0
+- 5m fairing base now contains all the Restock+ variants for this part so it can more reasonably replace the MH version if installed
+- Fixed 7.5m fairing base having a fairing variant when it shouldn't have
+- 5m docking port now has rotational capabilties
+- Bipropellant RCS blocks (ACES and other large blocks) can now use part switching to select LF/O, LCH4/O or LH2/O if CryoTanks is installed
+- Added Waterfall effects to ACES blocks
+- Redid Waterfall mono and bipropellant heavy RCS effects 
 
 2.1.3
 -----
