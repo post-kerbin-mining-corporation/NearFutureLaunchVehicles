@@ -21,8 +21,8 @@ This mod features a number of useful parts, mostly focused on very large launch 
 
 ### Required
 These components are required for the mod to function and are bundled as part of any download:
-* [ModuleManager (4.1.4)](https://github.com/sarbian/ModuleManager)
-* [B9PartSwitch (2.18.0)](https://github.com/blowfishpro/B9PartSwitch)
+* [ModuleManager (4.2.3)](https://github.com/sarbian/ModuleManager)
+* [B9PartSwitch (2.20.0)](https://github.com/blowfishpro/B9PartSwitch)
 * [DeployableEngines (1.3.1)](https://github.com/post-kerbin-mining-corporation/DeployableEngines)
 
 ## Installation
@@ -55,6 +55,7 @@ For translation instructions please see [Localization Instructions](https://gith
 * **Spanish**: fitiales
 * **German**: Three_Pounds
 * **Russian**: Sooll3
+* **Japanese**: Yark-Aki
 
 ## Licensing
 
