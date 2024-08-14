@@ -1,5 +1,5 @@
 ==================================
-NEAR FUTURE LAUNCH VEHICLES v2.2.0
+NEAR FUTURE LAUNCH VEHICLES v2.2.1
 ==================================
 
 This mod is intended to provide a well-balanced, artistically consistent set of large launch vehicle parts for your launching pleasure. It contains both 5m and 7.5m size class parts as well as support components like RCS thrusters and clusterable engines.
@@ -10,8 +10,8 @@ DEPENDENCIES
 ============
 
 Required:
-- B9PartSwitch (2.18.0)
-- ModuleManager (v4.1.4)
+- B9PartSwitch (2.20.0)
+- ModuleManager (v4.2.3)
 - DeployableEngines (v1.3.1)
 Optional:
 - Community Tech Tree (v3.0+)
@@ -34,6 +34,7 @@ This mod includes localization support, and includes translations for
 - Spanish (KSP forum user fitiales)
 - German (KSP forum user Three_Pounds)
 - Russian (KSP forum user Sooll3)
+- Japanese (Yark-Aki)
 
 =======
 KSP-AVC

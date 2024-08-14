@@ -1,3 +1,13 @@
+2.2.1
+-----
+- Updated ModuleManager to 4.2.3
+- Updated B9PartSwitch to 2.20.0
+- Changed bulkhead profile of all 7.5m parts to size6 to follow community conventions
+- Fixed some config issues in waterfall patches for RCS parts
+- Fixed sound on KR-107 with Waterfall installed (ensou)
+- Added Japanese translation (Yark-Aki)
+- Suppot VABOrganizer
+
 2.2.0
 -----
 - KSP 1.12
