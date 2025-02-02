@@ -1,3 +1,10 @@
+2.2.2
+-----
+- Removed the Otter and Sphinx engines
+ - They are soft-deprecated so crafts in flight will not be affected. 
+ - The reasons for doing this should be evident. 
+ - They may be replaced in the future
+
 2.2.1
 -----
 - Updated ModuleManager to 4.2.3
