@@ -1,5 +1,6 @@
 2.2.2
 -----
+- Fixed VABOrganizer subcategory assignments for RCS parts
 - Removed the Otter and Sphinx engines
  - They are soft-deprecated so crafts in flight will not be affected. 
  - The reasons for doing this should be evident. 
